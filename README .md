@@ -67,7 +67,7 @@ A Django-based portfolio website is a dynamic and interactive platform that allo
 
 5. Deployment Platform (Optional):
 
-Hosting platforms like Heroku for deploying and serving the Django application online.
+* Hosting platforms like Heroku for deploying and serving the Django application online.
 Provides accessibility to visitors and ensures uptime and reliability of the portfolio website.
 
 
